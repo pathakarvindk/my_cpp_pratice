@@ -18,6 +18,8 @@ using namespace std;
 
 int main(){
 
+    // Data_type Variable name = Value
+
     int a = 1;
     int b = 2;
 
